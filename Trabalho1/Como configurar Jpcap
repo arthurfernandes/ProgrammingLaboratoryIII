@@ -1,0 +1,8 @@
+Como configurar Jpcap
+
+-Baixar JRE 32 bits.
+-Em arquivos de programas x86 vocês vão achar as pastas:
+C:\Program Files (x86)\Java\jre7\bin (copie a DLL para cá)
+C:\Program Files (x86)\Java\jre7\lib\ext (copie o JAR para cá)
+
+Lembrar de linkar no NetBeans em add Jar ou Pasta, e colocar onde o Jar se encontra
