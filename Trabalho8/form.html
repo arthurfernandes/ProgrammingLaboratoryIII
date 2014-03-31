@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title><!-- Insert your title here --></title>
+    <style type="text/css">
+        
+        .backgroundStyle{
+            background-color: rgb(64, 71, 81);
+        }
+        
+        .mainbox{
+            border: 8px solid rgb(85, 134, 178);
+            border-radius:10px;
+            position:absolute;
+            background-color: rgb(208, 208, 208); 
+            left:50%;
+            top:50%;
+            width:360px;
+            height:180px;
+            margin-left:-180px;
+            margin-top:-90px;
+        }
+        
+        .boxtitle{
+            font-family: "Lucida Grande", monospace;
+            color: rgb(136,136,136);
+            padding-left: 15px;
+            font-size:20px;
+            position:relative;
+            top:5px;
+        }
+        
+        .underlinetrace{
+            color:rgb(195,195,195);
+        }
+        
+        .mailimage{
+            position: relative;
+            left:10px;
+            width: 25px;
+            height: 25px;
+        }
+        
+        .mailaddress{
+            border:1px hidden;
+            border-radius:3px;
+            background-color: rgb(97,97,97);
+            position:relative;
+            top: -9px;
+            left: 5px;
+            width:89%;
+            height:23px;
+            font-style: italic;
+            font-size: 10px;
+            color:rgb(141,141,141);
+            text-indent: 10px;
+            
+        }
+        
+        .informationtext1{
+            color: rgb(136,136,136);
+            position:relative;
+            left:10px;
+            font-size: 10px;
+            font-family: "Lucida Grande",verdana,monospace;
+            
+        }
+        
+        .informationtext2{
+            color: rgb(149,149,149);
+            position: relative;
+            font-size:8px;
+            font-family: "Lucida Grande",verdana,monospace;
+            width:55%;
+            text-align: right;
+        }
+
+        .subscribebutton{
+            
+            background-color: rgb(64,138,212);
+            border: 2px hidden;
+            border-radius:2px;
+            color:rgb(241,241,255);
+            font-family:"Lucida Grande",verdana,monospace;
+            
+            font-size:100%;
+            height:32px;
+            width:35%;
+            position:relative;
+            left:60%;
+            top:-20px;
+            
+        }
+        
+        .xbutton{
+            
+            position:absolute;
+            left:100%;
+            top:0%;
+            margin-left:-15px;
+            margin-top:-15px;
+            background: url('res/xbutton.png') ;
+            background-repeat:no-repeat;
+            z-index:1;
+            
+        }
+    </style>
+</head>
+<body class = backgroundStyle>
+    <div class=mainbox >
+        <div class=boxtitle><strong>Subscribe</strong> our <strong>Newsletter</strong></div>
+        <hr class="underlinetrace"/>
+        
+        <div>
+            <img src="res/mail.png" class="mailimage"/>
+            <input type="text" class="mailaddress" id="mailaddress" value="enter your email address..."/>
+        </div>
+        
+        <div class = "informationtext1">
+            <p><strong>Subscribe to our newsletter and get exclusive deals you wont find anywhere else straight to your inbox</strong></p>
+        </div>
+        <div class = "informationtext2">
+            Free bundles in your mail, no spam, no ads, no news, no crap. Promise!
+        </div>
+        
+        <div>
+            <form>
+                <input type="submit" class="subscribebutton" id="subscribe" value="SUBSCRIBE"/>
+            </form>
+        </div>
+        
+        <div class="xbutton">
+            <input type="image" src="res/xbutton.png" id="closebutton" />
+            
+        </div>
+    </div>
+    <!-- Insert your content here -->
+</body>
+</html>
