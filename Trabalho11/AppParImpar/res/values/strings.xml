@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppParImpar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="output">Messages:</string>
+	<string name="title_playb">PLAY!</string>
+	<string name="title_consultb">WHO IS THE WINNER?</string>
+	<string name="jogadorplain">Jogador:</string>
+</resources>
