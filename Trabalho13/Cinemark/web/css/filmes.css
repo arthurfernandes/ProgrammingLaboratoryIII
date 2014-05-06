@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 5, 2014, 6:36:38 AM
+    Author     : arthurfernandes
+*/
+
+.filmeContainer{
+    
+    background-color: #cccccc
+    
+}
+
+.filme{
+    position:relative;
+    background-color: #dbcccc;
+    border: solid #ffffff;
+    border-radius: 5px;
+    
+}
+
+.filme img{
+    width: 15%;
+}
+
+.filmeCaption{
+    position:absolute;
+    top:30%;
+    left:20%;
+}
+
+.cinema{
+    position:relative;
+    background-color: #dbcccc;
+    border: solid #ffffff;
+    border-radius: 5px;
+}
+
+.cinema img{
+    width:10%;
+}
+
+.cinemaCaption{
+    position:absolute;
+    top:30%;
+    left:20%;
+}
+
+.cinemaContainer{
+    position: relative;
+    top: 5%;
+    
+}
+
+.cinemaCartaz{
+    position: absolute;
+    
+}

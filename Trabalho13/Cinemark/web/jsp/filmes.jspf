@@ -1,0 +1,15 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<div class="filme">
+    <figure>
+       <img src="http://www.cinemark.com.br/filmes/${filme.filmeId}/photo1.jpg" alt="${filme.nome}">
+    </figure>
+    <div class="filmeCaption">
+        <span>${filme.nome}</span><br>
+        <span>${filme.genero}</span></br>
+        <span>${filme.classificacaoIndicativa}</span><br>
+        <span>${filme.duracao}</span>
+    </div>
+
+</div>

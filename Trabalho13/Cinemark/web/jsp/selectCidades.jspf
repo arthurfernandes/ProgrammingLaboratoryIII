@@ -1,0 +1,15 @@
+<%-- any content can be specified here e.g.: --%>
+
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@page pageEncoding="UTF-8" %>
+<%@page import="java.util.TreeSet"%>
+<%@page import="br.eb.ime.labprog3.cinemark.*"%>
+
+<select name="todasAsCidades" id="selectCidades" class="form-control">
+    <jsp:useBean class="br.eb.ime.labprog3.cinemark.CidadeDAO" id="dao">
+        <%dao.setDocumentoXML((DocumentoXML)application.getAttribute("DocumentoXMLCinemas"));%>
+        <c:forEach var="cidade" items="${dao.todasAsCidades}">
+            <option id="{cidade.cidadeId}" value="${cidade.cidadeId}" class="optionsCidades" > ${cidade.nome} </option>
+        </c:forEach>
+    </jsp:useBean>
+</select>

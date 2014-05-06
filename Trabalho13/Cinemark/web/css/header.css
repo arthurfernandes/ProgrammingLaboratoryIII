@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 4, 2014, 7:00:05 PM
+    Author     : arthurfernandes
+*/
+
+
+
+.botaoNavegacao {
+    background-color: rgba(158, 27, 46,0.9);
+}
+
+.botaoNavegacao button{
+    background-color: transparent;
+    border-color: transparent;
+    
+}
+
+.botaoNavegacao button:hover{
+    background-color: red;
+}
+
+.bodyIndex {
+    position:relative;
+}
+
+.bodyIndex div:first-of-type{
+    position:absolute;
+    top:30%;
+    width:inherit;
+}
+
+.bodyIndex div:first-of-type button{
+    position:relative;
+    
+    margin-bottom: 3%;
+    background: rgba(255,255,255,0.6);
+    width:100%;
+}
+
+.bodyIndex figure{
+    width:inherit;
+}
+
+.backgroundDiv {
+    position:fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    
+    background-color: rgba(0,0,0,1);
+    
+    
+}

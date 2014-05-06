@@ -1,0 +1,16 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+    <div class="backgroundDiv" >
+        
+    </div>
+    <form action="/Cinemark/index" method="post">
+            <div class="botaoNavegacao navbar-fixed-top center-block">
+                <button type="submit" name="logica" value="/" class="btn btn-primary ">Home</button>
+                <button type="submit" name="logica" value="ExibeTop10FilmesLogica" class="btn btn-primary">Top10</button>
+                <button type="submit" name="logica" value="ExibeListaDeCidades" class="btn btn-primary">Cinemas</button>
+                <button type="submit" name="logica" value="/" class="btn btn-primary navbar-right">Comprar</button>
+            </div>
+    </form>
+
+    
