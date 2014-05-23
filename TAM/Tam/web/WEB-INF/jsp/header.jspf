@@ -1,0 +1,26 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<style type="text/css">
+    
+    .botaoNavegacao {
+        background-color: rgba(158, 27, 46,0.6);
+        position:relative;
+    }
+
+    .botaoNavegacao button{
+        background-color: transparent;
+        border-color: transparent;
+
+    }
+
+    .botaoNavegacao button:hover{
+        background-color: red;
+    }
+</style>
+
+
+<div class="botaoNavegacao navbar-fixed-top center-block">
+            <a href="/Tam/index.html"><button type="submit" name="logica" value="/" class="btn btn-primary ">Home</button></a>
+            <a href="/Tam/about.html"><button type="submit" name="logica" value="/" class="btn btn-primary navbar-right">About</button></a>
+</div>

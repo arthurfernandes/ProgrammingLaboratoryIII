@@ -1,0 +1,213 @@
+<?xml version=1.0 ?>
+<trechos>
+	<aeroporto>
+		<id>1</id>
+		<nome>Aracaju - Santa Maria (AJU)</nome>
+		<sigla>AJU</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>2</id>
+		<nome>Belém - Val De Cans (BEL)</nome>
+		<sigla>BEL</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>3</id>
+		<nome>Porto Seguro (BPS)</nome>
+		<sigla>BPS</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>4</id>
+		<nome>Brasília - Juscelino Kubitschek International (BSB)</nome>
+		<sigla>BSB</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>5</id>
+		<nome>Boa Vista (BVB)</nome>
+		<sigla>BVB</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>6</id>
+		<nome>Cuiabá - Marechal Rondon (CGB)</nome>
+		<sigla>CGB</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>7</id>
+		<nome>São Paulo - Congonhas (CGH)</nome>
+		<sigla>CGH</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>8</id>
+		<nome>Campo Grande - Campo Grande International (CGR)</nome>
+		<sigla>CGR</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>9</id>
+		<nome>Belo Horizonte - Tancredo Neves International (CNF)</nome>
+		<sigla>CNF</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>10</id>
+		<nome>Curitiba - Afonso Pena (CWB)</nome>
+		<sigla>CWB</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>11</id>
+		<nome>Florianópolis - Hercílio Luz (FLN)</nome>
+		<sigla>FLN</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>12</id>
+		<nome>Fortaleza - Pinto Martins (FOR)</nome>
+		<sigla>FOR</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>13</id>
+		<nome>Rio de Janeiro - Galeão International (GIG)</nome>
+		<sigla>GIG</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>14</id>
+		<nome>São Paulo - Guarulhos International (GRU)</nome>
+		<sigla>GRU</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>15</id>
+		<nome>Goiânia - Santa Genoveva (GYN)</nome>
+		<sigla>GYN</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>16</id>
+		<nome>Foz Do Iguaçu - Cataratas (IGU)</nome>
+		<sigla>IGU</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>17</id>
+		<nome>Imperatriz - Prefeito Renato Moreira (IMP)</nome>
+		<sigla>IMP</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>18</id>
+		<nome>Ilhéus - Aeroporto de Ilhéus (IOS)</nome>
+		<sigla>IOS</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>19</id>
+		<nome>Joinville - Lauro Carneiro Loyola (JOI)</nome>
+		<sigla>JOI</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>20</id>
+		<nome>João Pessoa - Presidente Castro Pinto (JPA)</nome>
+		<sigla>JPA</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>21</id>
+		<nome>Londrina (LDB)</nome>
+		<sigla>LDB</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>22</id>
+		<nome>Marabá (MAB)</nome>
+		<sigla>MAB</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>23</id>
+		<nome>Manaus - Eduardo Gomes International (MAO)</nome>
+		<sigla>MAO</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>24</id>
+		<nome>Macapá - Macapá International (MCP)</nome>
+		<sigla>MCP</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>25</id>
+		<nome>Maceió - Zumbi dos Palmares (MCZ)</nome>
+		<sigla>MCZ</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>26</id>
+		<nome>Natal - Augusto Severo (NAT)</nome>
+		<sigla>NAT</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>27</id>
+		<nome>Navegantes (NVT)</nome>
+		<sigla>NVT</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>28</id>
+		<nome>Palmas - Tocantins (PMW)</nome>
+		<sigla>PMW</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>29</id>
+		<nome>Porto Alegre - Salgado Filho (POA)</nome>
+		<sigla>POA</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>30</id>
+		<nome>Porto Velho - Jorge T. Oliveira (PVH)</nome>
+		<sigla>PVH</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>31</id>
+		<nome>Ribeirão Preto - Leite Lopes (RAO)</nome>
+		<sigla>RAO</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>32</id>
+		<nome>Rio Branco - Plácido de Castro (RBR)</nome>
+		<sigla>RBR</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>33</id>
+		<nome>Recife - Guararapes (REC)</nome>
+		<sigla>REC</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>34</id>
+		<nome>Rio de Janeiro - Santos Dumont (SDU)</nome>
+		<sigla>SDU</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>35</id>
+		<nome>São José do Rio Preto (SJP)</nome>
+		<sigla>SJP</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>36</id>
+		<nome>São Luís - Marechal Cunha Machado (SLZ)</nome>
+		<sigla>SLZ</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>37</id>
+		<nome>Salvador - Luis Eduardo Magalhães (SSA)</nome>
+		<sigla>SSA</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>38</id>
+		<nome>Santarém (STM)</nome>
+		<sigla>STM</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>39</id>
+		<nome>Teresina - Senador Petrônio Portella (THE)</nome>
+		<sigla>THE</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>40</id>
+		<nome>Uberlândia - César Bombonato (UDI)</nome>
+		<sigla>UDI</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>41</id>
+		<nome>São Paulo - Viracopos (VCP)</nome>
+		<sigla>VCP</sigla>
+	</aeroporto>
+	<aeroporto>
+		<id>42</id>
+		<nome>Vitoria - Eurico De Aguiar Salles (VIX)</nome>
+		<sigla>VIX</sigla>
+	</aeroporto>
+</trechos>

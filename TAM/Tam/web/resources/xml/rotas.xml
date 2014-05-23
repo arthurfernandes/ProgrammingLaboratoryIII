@@ -1,0 +1,1836 @@
+<?xml version="1.0"?>
+<trechos>
+	<trecho>
+		<id>1</id>
+		<origem id="1">AJU</origem>
+		<destino id="14">GRU</destino>
+		<preco>459.0</preco>
+		<duracao>3:30</duracao>
+		<numeroVoo>JJ3513</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>2</id>
+		<origem id="1">AJU</origem>
+		<destino id="33">REC</destino>
+		<preco>209.0</preco>
+		<duracao>0:50</duracao>
+		<numeroVoo>JJ3892</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>3</id>
+		<origem id="1">AJU</origem>
+		<destino id="34">SDU</destino>
+		<preco>599.0</preco>
+		<duracao>2:33</duracao>
+		<numeroVoo>JJ3093</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>4</id>
+		<origem id="2">BEL</origem>
+		<destino id="4">BSB</destino>
+		<preco>1.121</preco>
+		<duracao>2:29</duracao>
+		<numeroVoo>JJ3373</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>5</id>
+		<origem id="2">BEL</origem>
+		<destino id="12">FOR</destino>
+		<preco>307.0</preco>
+		<duracao>1:50</duracao>
+		<numeroVoo>JJ3515</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>6</id>
+		<origem id="2">BEL</origem>
+		<destino id="13">GIG</destino>
+		<preco>814.0</preco>
+		<duracao>3:37</duracao>
+		<numeroVoo>JJ3407</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>7</id>
+		<origem id="2">BEL</origem>
+		<destino id="14">GRU</destino>
+		<preco>788.0</preco>
+		<duracao>3:40</duracao>
+		<numeroVoo>JJ3387</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>8</id>
+		<origem id="2">BEL</origem>
+		<destino id="22">MAB</destino>
+		<preco>84.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3871</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>9</id>
+		<origem id="2">BEL</origem>
+		<destino id="23">MAO</destino>
+		<preco>250.0</preco>
+		<duracao>1:57</duracao>
+		<numeroVoo>JJ3742</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>10</id>
+		<origem id="2">BEL</origem>
+		<destino id="24">MCP</destino>
+		<preco>121.0</preco>
+		<duracao>0:52</duracao>
+		<numeroVoo>JJ3432</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>11</id>
+		<origem id="2">BEL</origem>
+		<destino id="36">SLZ</destino>
+		<preco>273.0</preco>
+		<duracao>1:05</duracao>
+		<numeroVoo>JJ3893</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>12</id>
+		<origem id="2">BEL</origem>
+		<destino id="38">STM</destino>
+		<preco>277.0</preco>
+		<duracao>1:19</duracao>
+		<numeroVoo>JJ3892</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>13</id>
+		<origem id="3">BPS</origem>
+		<destino id="9">CNF</destino>
+		<preco>422.0</preco>
+		<duracao>1:10</duracao>
+		<numeroVoo>JJ3405</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>14</id>
+		<origem id="3">BPS</origem>
+		<destino id="14">GRU</destino>
+		<preco>657.0</preco>
+		<duracao>2:10</duracao>
+		<numeroVoo>JJ3607</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>15</id>
+		<origem id="4">BSB</origem>
+		<destino id="2">BEL</destino>
+		<preco>1.121</preco>
+		<duracao>2:28</duracao>
+		<numeroVoo>JJ3448</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>16</id>
+		<origem id="4">BSB</origem>
+		<destino id="6">CGB</destino>
+		<preco>454.0</preco>
+		<duracao>1:45</duracao>
+		<numeroVoo>JJ3674</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>17</id>
+		<origem id="4">BSB</origem>
+		<destino id="7">CGH</destino>
+		<preco>458.0</preco>
+		<duracao>1:34</duracao>
+		<numeroVoo>JJ3719</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>18</id>
+		<origem id="4">BSB</origem>
+		<destino id="8">CGR</destino>
+		<preco>268.0</preco>
+		<duracao>1:37</duracao>
+		<numeroVoo>JJ3778</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>19</id>
+		<origem id="4">BSB</origem>
+		<destino id="9">CNF</destino>
+		<preco>257.0</preco>
+		<duracao>1:08</duracao>
+		<numeroVoo>JJ3829</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>20</id>
+		<origem id="4">BSB</origem>
+		<destino id="10">CWB</destino>
+		<preco>1.15</preco>
+		<duracao>1:48</duracao>
+		<numeroVoo>JJ3151</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>21</id>
+		<origem id="4">BSB</origem>
+		<destino id="11">FLN</destino>
+		<preco>399.0</preco>
+		<duracao>2:13</duracao>
+		<numeroVoo>JJ3875</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>22</id>
+		<origem id="4">BSB</origem>
+		<destino id="12">FOR</destino>
+		<preco>843.0</preco>
+		<duracao>2:33</duracao>
+		<numeroVoo>JJ3066</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>23</id>
+		<origem id="4">BSB</origem>
+		<destino id="13">GIG</destino>
+		<preco>353.0</preco>
+		<duracao>1:44</duracao>
+		<numeroVoo>JJ3821</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>24</id>
+		<origem id="4">BSB</origem>
+		<destino id="14">GRU</destino>
+		<preco>351.0</preco>
+		<duracao>1:40</duracao>
+		<numeroVoo>JJ3578</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>25</id>
+		<origem id="4">BSB</origem>
+		<destino id="15">GYN</destino>
+		<preco>239.0</preco>
+		<duracao>0:42</duracao>
+		<numeroVoo>JJ3579</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>26</id>
+		<origem id="4">BSB</origem>
+		<destino id="17">IMP</destino>
+		<preco>550.0</preco>
+		<duracao>1:56</duracao>
+		<numeroVoo>JJ3552</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>27</id>
+		<origem id="4">BSB</origem>
+		<destino id="20">JPA</destino>
+		<preco>599.0</preco>
+		<duracao>2:44</duracao>
+		<numeroVoo>JJ3280</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>28</id>
+		<origem id="4">BSB</origem>
+		<destino id="22">MAB</destino>
+		<preco>1.017</preco>
+		<duracao>2:03</duracao>
+		<numeroVoo>JJ3870</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>29</id>
+		<origem id="4">BSB</origem>
+		<destino id="23">MAO</destino>
+		<preco>1.046</preco>
+		<duracao>2:57</duracao>
+		<numeroVoo>JJ3540</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>30</id>
+		<origem id="4">BSB</origem>
+		<destino id="25">MCZ</destino>
+		<preco>366.0</preco>
+		<duracao>2:22</duracao>
+		<numeroVoo>JJ3576</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>31</id>
+		<origem id="4">BSB</origem>
+		<destino id="26">NAT</destino>
+		<preco>554.0</preco>
+		<duracao>3:06</duracao>
+		<numeroVoo>JJ3312</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>32</id>
+		<origem id="4">BSB</origem>
+		<destino id="28">PMW</destino>
+		<preco>307.0</preco>
+		<duracao>1:20</duracao>
+		<numeroVoo>JJ3802</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>33</id>
+		<origem id="4">BSB</origem>
+		<destino id="29">POA</destino>
+		<preco>932.0</preco>
+		<duracao>2:38</duracao>
+		<numeroVoo>JJ3057</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>34</id>
+		<origem id="4">BSB</origem>
+		<destino id="30">PVH</destino>
+		<preco>999.0</preco>
+		<duracao>3:05</duracao>
+		<numeroVoo>JJ3526</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>35</id>
+		<origem id="4">BSB</origem>
+		<destino id="32">RBR</destino>
+		<preco>806.0</preco>
+		<duracao>3:27</duracao>
+		<numeroVoo>JJ3534</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>36</id>
+		<origem id="4">BSB</origem>
+		<destino id="33">REC</destino>
+		<preco>1.049</preco>
+		<duracao>2:35</duracao>
+		<numeroVoo>JJ3860</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>37</id>
+		<origem id="4">BSB</origem>
+		<destino id="34">SDU</destino>
+		<preco>378.0</preco>
+		<duracao>1:52</duracao>
+		<numeroVoo>JJ3023</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>38</id>
+		<origem id="4">BSB</origem>
+		<destino id="36">SLZ</destino>
+		<preco>423.0</preco>
+		<duracao>2:20</duracao>
+		<numeroVoo>JJ3180</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>39</id>
+		<origem id="4">BSB</origem>
+		<destino id="37">SSA</destino>
+		<preco>238.0</preco>
+		<duracao>1:52</duracao>
+		<numeroVoo>JJ3520</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>40</id>
+		<origem id="4">BSB</origem>
+		<destino id="39">THE</destino>
+		<preco>1.297</preco>
+		<duracao>2:12</duracao>
+		<numeroVoo>JJ3840</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>41</id>
+		<origem id="4">BSB</origem>
+		<destino id="40">UDI</destino>
+		<preco>238.0</preco>
+		<duracao>0:56</duracao>
+		<numeroVoo>JJ3208</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>42</id>
+		<origem id="4">BSB</origem>
+		<destino id="41">VCP</destino>
+		<preco>119.0</preco>
+		<duracao>2:03</duracao>
+		<numeroVoo>JJ3660</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>43</id>
+		<origem id="4">BSB</origem>
+		<destino id="42">VIX</destino>
+		<preco>859.0</preco>
+		<duracao>1:41</duracao>
+		<numeroVoo>JJ3229</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>44</id>
+		<origem id="5">BVB</origem>
+		<destino id="23">MAO</destino>
+		<preco>163.0</preco>
+		<duracao>1:17</duracao>
+		<numeroVoo>JJ3747</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>45</id>
+		<origem id="6">CGB</origem>
+		<destino id="4">BSB</destino>
+		<preco>454.0</preco>
+		<duracao>1:32</duracao>
+		<numeroVoo>JJ3649</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>46</id>
+		<origem id="6">CGB</origem>
+		<destino id="7">CGH</destino>
+		<preco>284.0</preco>
+		<duracao>2:06</duracao>
+		<numeroVoo>JJ3813</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>47</id>
+		<origem id="6">CGB</origem>
+		<destino id="14">GRU</destino>
+		<preco>293.0</preco>
+		<duracao>2:10</duracao>
+		<numeroVoo>JJ3639</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>48</id>
+		<origem id="7">CGH</origem>
+		<destino id="4">BSB</destino>
+		<preco>458.0</preco>
+		<duracao>1:39</duracao>
+		<numeroVoo>JJ3702</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>49</id>
+		<origem id="7">CGH</origem>
+		<destino id="6">CGB</destino>
+		<preco>394.0</preco>
+		<duracao>2:15</duracao>
+		<numeroVoo>JJ3812</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>50</id>
+		<origem id="7">CGH</origem>
+		<destino id="8">CGR</destino>
+		<preco>301.0</preco>
+		<duracao>1:49</duracao>
+		<numeroVoo>JJ3138</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>51</id>
+		<origem id="7">CGH</origem>
+		<destino id="9">CNF</destino>
+		<preco>523.0</preco>
+		<duracao>1:02</duracao>
+		<numeroVoo>JJ3053</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>52</id>
+		<origem id="7">CGH</origem>
+		<destino id="10">CWB</destino>
+		<preco>431.0</preco>
+		<duracao>0:57</duracao>
+		<numeroVoo>JJ3237</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>53</id>
+		<origem id="7">CGH</origem>
+		<destino id="11">FLN</destino>
+		<preco>517.0</preco>
+		<duracao>1:12</duracao>
+		<numeroVoo>JJ3103</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>54</id>
+		<origem id="7">CGH</origem>
+		<destino id="13">GIG</destino>
+		<preco>444.0</preco>
+		<duracao>1:04</duracao>
+		<numeroVoo>JJ3252</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>55</id>
+		<origem id="7">CGH</origem>
+		<destino id="15">GYN</destino>
+		<preco>279.0</preco>
+		<duracao>1:48</duracao>
+		<numeroVoo>JJ3460</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>56</id>
+		<origem id="7">CGH</origem>
+		<destino id="18">IOS</destino>
+		<preco>416.0</preco>
+		<duracao>1:58</duracao>
+		<numeroVoo>JJ3618</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>57</id>
+		<origem id="7">CGH</origem>
+		<destino id="19">JOI</destino>
+		<preco>923.0</preco>
+		<duracao>0:53</duracao>
+		<numeroVoo>JJ3033</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>58</id>
+		<origem id="7">CGH</origem>
+		<destino id="21">LDB</destino>
+		<preco>267.0</preco>
+		<duracao>1:07</duracao>
+		<numeroVoo>JJ3763</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>59</id>
+		<origem id="7">CGH</origem>
+		<destino id="27">NVT</destino>
+		<preco>511.0</preco>
+		<duracao>1:06</duracao>
+		<numeroVoo>JJ3119</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>60</id>
+		<origem id="7">CGH</origem>
+		<destino id="29">POA</destino>
+		<preco>495.0</preco>
+		<duracao>1:44</duracao>
+		<numeroVoo>JJ3279</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>61</id>
+		<origem id="7">CGH</origem>
+		<destino id="31">RAO</destino>
+		<preco>261.0</preco>
+		<duracao>1:08</duracao>
+		<numeroVoo>JJ3270</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>62</id>
+		<origem id="7">CGH</origem>
+		<destino id="34">SDU</destino>
+		<preco>410.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3912</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>63</id>
+		<origem id="7">CGH</origem>
+		<destino id="35">SJP</destino>
+		<preco>389.0</preco>
+		<duracao>1:05</duracao>
+		<numeroVoo>JJ3740</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>64</id>
+		<origem id="7">CGH</origem>
+		<destino id="37">SSA</destino>
+		<preco>1.096</preco>
+		<duracao>2:15</duracao>
+		<numeroVoo>JJ3600</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>65</id>
+		<origem id="7">CGH</origem>
+		<destino id="40">UDI</destino>
+		<preco>1.463</preco>
+		<duracao>1:11</duracao>
+		<numeroVoo>JJ3244</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>66</id>
+		<origem id="7">CGH</origem>
+		<destino id="42">VIX</destino>
+		<preco>614.0</preco>
+		<duracao>1:23</duracao>
+		<numeroVoo>JJ3130</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>67</id>
+		<origem id="8">CGR</origem>
+		<destino id="4">BSB</destino>
+		<preco>268.0</preco>
+		<duracao>1:22</duracao>
+		<numeroVoo>JJ3590</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>68</id>
+		<origem id="8">CGR</origem>
+		<destino id="7">CGH</destino>
+		<preco>331.0</preco>
+		<duracao>1:42</duracao>
+		<numeroVoo>JJ3775</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>69</id>
+		<origem id="8">CGR</origem>
+		<destino id="14">GRU</destino>
+		<preco>231.0</preco>
+		<duracao>1:38</duracao>
+		<numeroVoo>JJ3593</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>70</id>
+		<origem id="9">CNF</origem>
+		<destino id="3">BPS</destino>
+		<preco>422.0</preco>
+		<duracao>1:10</duracao>
+		<numeroVoo>JJ3404</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>71</id>
+		<origem id="9">CNF</origem>
+		<destino id="4">BSB</destino>
+		<preco>257.0</preco>
+		<duracao>1:31</duracao>
+		<numeroVoo>JJ3870</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>72</id>
+		<origem id="9">CNF</origem>
+		<destino id="7">CGH</destino>
+		<preco>523.0</preco>
+		<duracao>1:29</duracao>
+		<numeroVoo>JJ3263</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>73</id>
+		<origem id="9">CNF</origem>
+		<destino id="13">GIG</destino>
+		<preco>167.0</preco>
+		<duracao>0:58</duracao>
+		<numeroVoo>JJ3385</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>74</id>
+		<origem id="9">CNF</origem>
+		<destino id="14">GRU</destino>
+		<preco>92.0</preco>
+		<duracao>1:11</duracao>
+		<numeroVoo>JJ3327</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>75</id>
+		<origem id="9">CNF</origem>
+		<destino id="34">SDU</destino>
+		<preco>111.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3753</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>76</id>
+		<origem id="9">CNF</origem>
+		<destino id="37">SSA</destino>
+		<preco>445.0</preco>
+		<duracao>1:43</duracao>
+		<numeroVoo>JJ3216</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>77</id>
+		<origem id="10">CWB</origem>
+		<destino id="4">BSB</destino>
+		<preco>778.0</preco>
+		<duracao>1:59</duracao>
+		<numeroVoo>JJ3150</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>78</id>
+		<origem id="10">CWB</origem>
+		<destino id="7">CGH</destino>
+		<preco>431.0</preco>
+		<duracao>1:18</duracao>
+		<numeroVoo>JJ3014</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>79</id>
+		<origem id="10">CWB</origem>
+		<destino id="13">GIG</destino>
+		<preco>252.0</preco>
+		<duracao>1:26</duracao>
+		<numeroVoo>JJ3867</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>80</id>
+		<origem id="10">CWB</origem>
+		<destino id="14">GRU</destino>
+		<preco>1.2</preco>
+		<duracao>1:15</duracao>
+		<numeroVoo>JJ3330</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>81</id>
+		<origem id="10">CWB</origem>
+		<destino id="16">IGU</destino>
+		<preco>185.0</preco>
+		<duracao>1:07</duracao>
+		<numeroVoo>JJ3887</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>82</id>
+		<origem id="10">CWB</origem>
+		<destino id="21">LDB</destino>
+		<preco>65.0</preco>
+		<duracao>0:57</duracao>
+		<numeroVoo>JJ3157</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>83</id>
+		<origem id="10">CWB</origem>
+		<destino id="29">POA</destino>
+		<preco>199.0</preco>
+		<duracao>0:51</duracao>
+		<numeroVoo>JJ3847</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>84</id>
+		<origem id="10">CWB</origem>
+		<destino id="37">SSA</destino>
+		<preco>547.0</preco>
+		<duracao>2:42</duracao>
+		<numeroVoo>JJ3858</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>85</id>
+		<origem id="11">FLN</origem>
+		<destino id="4">BSB</destino>
+		<preco>1.259</preco>
+		<duracao>2:23</duracao>
+		<numeroVoo>JJ3874</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>86</id>
+		<origem id="11">FLN</origem>
+		<destino id="7">CGH</destino>
+		<preco>517.0</preco>
+		<duracao>1:10</duracao>
+		<numeroVoo>JJ3100</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>87</id>
+		<origem id="11">FLN</origem>
+		<destino id="13">GIG</destino>
+		<preco>1.481</preco>
+		<duracao>1:32</duracao>
+		<numeroVoo>JJ3424</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>88</id>
+		<origem id="11">FLN</origem>
+		<destino id="14">GRU</destino>
+		<preco>124.0</preco>
+		<duracao>1:10</duracao>
+		<numeroVoo>JJ3112</numeroVoo>
+	</trecho>
+    <trecho>
+		<id>1</id>
+		<origem id="12">FOR</origem>
+		<destino id="2">BEL</destino>
+		<preco>307.0</preco>
+		<duracao>1:54</duracao>
+		<numeroVoo>JJ3516</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>2</id>
+		<origem id="12">FOR</origem>
+		<destino id="4">BSB</destino>
+		<preco>843.0</preco>
+		<duracao>2:38</duracao>
+		<numeroVoo>JJ3061</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>3</id>
+		<origem id="12">FOR</origem>
+		<destino id="13">GIG</destino>
+		<preco>711.0</preco>
+		<duracao>3:13</duracao>
+		<numeroVoo>JJ3306</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>4</id>
+		<origem id="12">FOR</origem>
+		<destino id="14">GRU</destino>
+		<preco>197.0</preco>
+		<duracao>3:35</duracao>
+		<numeroVoo>JJ3325</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>5</id>
+		<origem id="12">FOR</origem>
+		<destino id="23">MAO</destino>
+		<preco>447.0</preco>
+		<duracao>3:18</duracao>
+		<numeroVoo>JJ3858</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>6</id>
+		<origem id="12">FOR</origem>
+		<destino id="26">NAT</destino>
+		<preco>392.0</preco>
+		<duracao>0:59</duracao>
+		<numeroVoo>JJ3307</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>7</id>
+		<origem id="12">FOR</origem>
+		<destino id="33">REC</destino>
+		<preco>348.0</preco>
+		<duracao>1:08</duracao>
+		<numeroVoo>JJ3515</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>8</id>
+		<origem id="12">FOR</origem>
+		<destino id="36">SLZ</destino>
+		<preco>292.0</preco>
+		<duracao>1:17</duracao>
+		<numeroVoo>JJ3892</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>9</id>
+		<origem id="12">FOR</origem>
+		<destino id="37">SSA</destino>
+		<preco>538.0</preco>
+		<duracao>1:41</duracao>
+		<numeroVoo>JJ3859</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>10</id>
+		<origem id="12">FOR</origem>
+		<destino id="39">THE</destino>
+		<preco>234.0</preco>
+		<duracao>1:09</duracao>
+		<numeroVoo>JJ3841</numeroVoo>
+	</trecho>
+
+    <trecho>
+		<id>1</id>
+		<origem id="13">GIG</origem>
+		<destino id="2">BEL</destino>
+		<preco>840.0</preco>
+		<duracao>3:35</duracao>
+		<numeroVoo>JJ3420</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>2</id>
+		<origem id="13">GIG</origem>
+		<destino id="4">BSB</destino>
+		<preco>353.0</preco>
+		<duracao>1:59</duracao>
+		<numeroVoo>JJ3444</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>3</id>
+		<origem id="13">GIG</origem>
+		<destino id="7">CGH</destino>
+		<preco>444.0</preco>
+		<duracao>1:08</duracao>
+		<numeroVoo>JJ3163</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>4</id>
+		<origem id="13">GIG</origem>
+		<destino id="9">CNF</destino>
+		<preco>167.0</preco>
+		<duracao>1:03</duracao>
+		<numeroVoo>JJ3380</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>5</id>
+		<origem id="13">GIG</origem>
+		<destino id="10">CWB</destino>
+		<preco>578.0</preco>
+		<duracao>1:31</duracao>
+		<numeroVoo>JJ3088</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>6</id>
+		<origem id="13">GIG</origem>
+		<destino id="11">FLN</destino>
+		<preco>393.0</preco>
+		<duracao>1:55</duracao>
+		<numeroVoo>JJ3413</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>7</id>
+		<origem id="13">GIG</origem>
+		<destino id="12">FOR</destino>
+		<preco>242.0</preco>
+		<duracao>3:07</duracao>
+		<numeroVoo>JJ3307</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>8</id>
+		<origem id="13">GIG</origem>
+		<destino id="14">GRU</destino>
+		<preco>262.0</preco>
+		<duracao>1:06</duracao>
+		<numeroVoo>JJ3511</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>9</id>
+		<origem id="13">GIG</origem>
+		<destino id="16">IGU</destino>
+		<preco>598.0</preco>
+		<duracao>2:14</duracao>
+		<numeroVoo>JJ3188</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>10</id>
+		<origem id="13">GIG</origem>
+		<destino id="20">JPA</destino>
+		<preco>1497.0</preco>
+		<duracao>3:08</duracao>
+		<numeroVoo>JJ3392</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>11</id>
+		<origem id="13">GIG</origem>
+		<destino id="23">MAO</destino>
+		<preco>634.0</preco>
+		<duracao>4:12</duracao>
+		<numeroVoo>JJ3832</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>12</id>
+		<origem id="13">GIG</origem>
+		<destino id="25">MCZ</destino>
+		<preco>723.0</preco>
+		<duracao>2:35</duracao>
+		<numeroVoo>JJ3266</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>13</id>
+		<origem id="13">GIG</origem>
+		<destino id="26">NAT</destino>
+		<preco>359.0</preco>
+		<duracao>3:02</duracao>
+		<numeroVoo>JJ3486</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>14</id>
+		<origem id="13">GIG</origem>
+		<destino id="29">POA</destino>
+		<preco>500.0</preco>
+		<duracao>2:10</duracao>
+		<numeroVoo>JJ3411</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>15</id>
+		<origem id="13">GIG</origem>
+		<destino id="33">REC</destino>
+		<preco>659.0</preco>
+		<duracao>2:47</duracao>
+		<numeroVoo>JJ3564</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>16</id>
+		<origem id="13">GIG</origem>
+		<destino id="36">SLZ</destino>
+		<preco>571.0</preco>
+		<duracao>3:20</duracao>
+		<numeroVoo>JJ3086</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>17</id>
+		<origem id="13">GIG</origem>
+		<destino id="37">SSA</destino>
+		<preco>565.0</preco>
+		<duracao>2:02</duracao>
+		<numeroVoo>JJ3198</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>18</id>
+		<origem id="13">GIG</origem>
+		<destino id="41">VCP</destino>
+		<preco>585.0</preco>
+		<duracao>0:59</duracao>
+		<numeroVoo>JJ3617</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>19</id>
+		<origem id="13">GIG</origem>
+		<destino id="42">VIX</destino>
+		<preco>220.0</preco>
+		<duracao>1:06</duracao>
+		<numeroVoo>JJ3076</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>20</id>
+		<origem id="14">GRU</origem>
+		<destino id="1">AJU</destino>
+		<preco>659.0</preco>
+		<duracao>2:38</duracao>
+		<numeroVoo>JJ3664</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>21</id>
+		<origem id="14">GRU</origem>
+		<destino id="2">BEL</destino>
+		<preco>546.0</preco>
+		<duracao>3:35</duracao>
+		<numeroVoo>JJ4677</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>22</id>
+		<origem id="14">GRU</origem>
+		<destino id="3">BPS</destino>
+		<preco>657.0</preco>
+		<duracao>2:00</duracao>
+		<numeroVoo>JJ3602</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>23</id>
+		<origem id="14">GRU</origem>
+		<destino id="4">BSB</destino>
+		<preco>351.0</preco>
+		<duracao>1:46</duracao>
+		<numeroVoo>JJ3562</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>24</id>
+		<origem id="14">GRU</origem>
+		<destino id="6">CGB</destino>
+		<preco>279.0</preco>
+		<duracao>2:15</duracao>
+		<numeroVoo>JJ3638</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>25</id>
+		<origem id="14">GRU</origem>
+		<destino id="8">CGR</destino>
+		<preco>231.0</preco>
+		<duracao>1:45</duracao>
+		<numeroVoo>JJ3614</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>26</id>
+		<origem id="14">GRU</origem>
+		<destino id="9">CNF</destino>
+		<preco>163.0</preco>
+		<duracao>1:10</duracao>
+		<numeroVoo>JJ3360</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>27</id>
+		<origem id="14">GRU</origem>
+		<destino id="10">CWB</destino>
+		<preco>204.0</preco>
+		<duracao>1:07</duracao>
+		<numeroVoo>JJ3157</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>28</id>
+		<origem id="14">GRU</origem>
+		<destino id="11">FLN</destino>
+		<preco>457.0</preco>
+		<duracao>1:30</duracao>
+		<numeroVoo>JJ3185</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>29</id>
+		<origem id="14">GRU</origem>
+		<destino id="12">FOR</destino>
+		<preco>497.0</preco>
+		<duracao>3:20</duracao>
+		<numeroVoo>JJ3322</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>30</id>
+		<origem id="14">GRU</origem>
+		<destino id="13">GIG</destino>
+		<preco>309.0</preco>
+		<duracao>1:05</duracao>
+		<numeroVoo>JJ3684</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>31</id>
+		<origem id="14">GRU</origem>
+		<destino id="15">GYN</destino>
+		<preco>239.0</preco>
+		<duracao>1:40</duracao>
+		<numeroVoo>JJ3466</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>32</id>
+		<origem id="14">GRU</origem>
+		<destino id="16">IGU</destino>
+		<preco>969.0</preco>
+		<duracao>1:40</duracao>
+		<numeroVoo>JJ3169</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>33</id>
+		<origem id="14">GRU</origem>
+		<destino id="19">JOI</destino>
+		<preco>554.0</preco>
+		<duracao>0:55</duracao>
+		<numeroVoo>JJ3791</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>34</id>
+		<origem id="14">GRU</origem>
+		<destino id="20">JPA</destino>
+		<preco>599.0</preco>
+		<duracao>3:13</duracao>
+		<numeroVoo>JJ3358</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>35</id>
+		<origem id="14">GRU</origem>
+		<destino id="21">LDB</destino>
+		<preco>201.0</preco>
+		<duracao>1:15</duracao>
+		<numeroVoo>JJ3398</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>36</id>
+		<origem id="14">GRU</origem>
+		<destino id="23">MAO</destino>
+		<preco>1083.0</preco>
+		<duracao>4:05</duracao>
+		<numeroVoo>JJ3746</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>37</id>
+		<origem id="14">GRU</origem>
+		<destino id="25">MCZ</destino>
+		<preco>528.0</preco>
+		<duracao>2:50</duracao>
+		<numeroVoo>JJ3636</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>38</id>
+		<origem id="14">GRU</origem>
+		<destino id="26">NAT</destino>
+		<preco>342.0</preco>
+		<duracao>3:15</duracao>
+		<numeroVoo>JJ3306</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>39</id>
+		<origem id="14">GRU</origem>
+		<destino id="29">POA</destino>
+		<preco>299.0</preco>
+		<duracao>1:47</duracao>
+		<numeroVoo>JJ3299</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>40</id>
+		<origem id="14">GRU</origem>
+		<destino id="31">RAO</destino>
+		<preco>909.0</preco>
+		<duracao>1:03</duracao>
+		<numeroVoo>JJ3396</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>41</id>
+		<origem id="14">GRU</origem>
+		<destino id="33">REC</destino>
+		<preco>269.0</preco>
+		<duracao>2:58</duracao>
+		<numeroVoo>JJ3524</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>42</id>
+		<origem id="14">GRU</origem>
+		<destino id="35">SJP</destino>
+		<preco>389.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3490</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>43</id>
+		<origem id="14">GRU</origem>
+		<destino id="36">SLZ</destino>
+		<preco>832.0</preco>
+		<duracao>3:30</duracao>
+		<numeroVoo>JJ3320</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>44</id>
+		<origem id="14">GRU</origem>
+		<destino id="37">SSA</destino>
+		<preco>250.0</preco>
+		<duracao>2:15</duracao>
+		<numeroVoo>JJ3816</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>45</id>
+		<origem id="14">GRU</origem>
+		<destino id="39">THE</destino>
+		<preco>485.0</preco>
+		<duracao>3:10</duracao>
+		<numeroVoo>JJ3666</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>46</id>
+		<origem id="14">GRU</origem>
+		<destino id="42">VIX</destino>
+		<preco>523.0</preco>
+		<duracao>1:25</duracao>
+		<numeroVoo>JJ3376</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>47</id>
+		<origem id="15">GYN</origem>
+		<destino id="4">BSB</destino>
+		<preco>239.0</preco>
+		<duracao>0:47</duracao>
+		<numeroVoo>JJ3731</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>48</id>
+		<origem id="15">GYN</origem>
+		<destino id="7">CGH</destino>
+		<preco>399.0</preco>
+		<duracao>1:28</duracao>
+		<numeroVoo>JJ3471</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>49</id>
+		<origem id="15">GYN</origem>
+		<destino id="14">GRU</destino>
+		<preco>239.0</preco>
+		<duracao>1:35</duracao>
+		<numeroVoo>JJ3457</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>50</id>
+		<origem id="16">IGU</origem>
+		<destino id="10">CWB</destino>
+		<preco>185.0</preco>
+		<duracao>1:06</duracao>
+		<numeroVoo>JJ3150</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>51</id>
+		<origem id="16">IGU</origem>
+		<destino id="13">GIG</destino>
+		<preco>598.0</preco>
+		<duracao>1:54</duracao>
+		<numeroVoo>JJ3186</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>52</id>
+		<origem id="16">IGU</origem>
+		<destino id="14">GRU</destino>
+		<preco>759.0</preco>
+		<duracao>1:45</duracao>
+		<numeroVoo>JJ3556</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>53</id>
+		<origem id="17">IMP</origem>
+		<destino id="4">BSB</destino>
+		<preco>805.0</preco>
+		<duracao>2:21</duracao>
+		<numeroVoo>JJ3553</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>54</id>
+		<origem id="17">IMP</origem>
+		<destino id="36">SLZ</destino>
+		<preco>293.0</preco>
+		<duracao>0:55</duracao>
+		<numeroVoo>JJ3572</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>55</id>
+		<origem id="18">IOS</origem>
+		<destino id="7">CGH</destino>
+		<preco>416.0</preco>
+		<duracao>2:13</duracao>
+		<numeroVoo>JJ3619</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>56</id>
+		<origem id="19">JOI</origem>
+		<destino id="7">CGH</destino>
+		<preco>923.0</preco>
+		<duracao>0:55</duracao>
+		<numeroVoo>JJ3034</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>57</id>
+		<origem id="19">JOI</origem>
+		<destino id="14">GRU</destino>
+		<preco>732.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3790</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>58</id>
+		<origem id="20">JPA</origem>
+		<destino id="4">BSB</destino>
+		<preco>669.0</preco>
+		<duracao>2:57</duracao>
+		<numeroVoo>JJ3783</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>59</id>
+		<origem id="20">JPA</origem>
+		<destino id="13">GIG</destino>
+		<preco>599.0</preco>
+		<duracao>3:03</duracao>
+		<numeroVoo>JJ3393</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>60</id>
+		<origem id="20">JPA</origem>
+		<destino id="14">GRU</destino>
+		<preco>679.0</preco>
+		<duracao>3:27</duracao>
+		<numeroVoo>JJ3359</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>61</id>
+		<origem id="21">LDB</origem>
+		<destino id="7">CGH</destino>
+		<preco>344.0</preco>
+		<duracao>1:07</duracao>
+		<numeroVoo>JJ3762</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>62</id>
+		<origem id="21">LDB</origem>
+		<destino id="10">CWB</destino>
+		<preco>65.0</preco>
+		<duracao>0:54</duracao>
+		<numeroVoo>JJ3106</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>63</id>
+		<origem id="21">LDB</origem>
+		<destino id="14">GRU</destino>
+		<preco>201.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3399</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>1</id>
+		<origem id="22">MAB</origem>
+		<destino id="2">BEL</destino>
+		<preco>240.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3870</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>2</id>
+		<origem id="22">MAB</origem>
+		<destino id="4">BSB</destino>
+		<preco>1123.0</preco>
+		<duracao>1:56</duracao>
+		<numeroVoo>JJ3871</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>3</id>
+		<origem id="23">MAO</origem>
+		<destino id="2">BEL</destino>
+		<preco>225.0</preco>
+		<duracao>1:59</duracao>
+		<numeroVoo>JJ3741</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>4</id>
+		<origem id="23">MAO</origem>
+		<destino id="4">BSB</destino>
+		<preco>903.0</preco>
+		<duracao>2:47</duracao>
+		<numeroVoo>JJ3543</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>5</id>
+		<origem id="23">MAO</origem>
+		<destino id="5">BVB</destino>
+		<preco>139.0</preco>
+		<duracao>1:13</duracao>
+		<numeroVoo>JJ3746</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>6</id>
+		<origem id="23">MAO</origem>
+		<destino id="12">FOR</destino>
+		<preco>447.0</preco>
+		<duracao>3:25</duracao>
+		<numeroVoo>JJ3859</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>7</id>
+		<origem id="23">MAO</origem>
+		<destino id="13">GIG</destino>
+		<preco>897.0</preco>
+		<duracao>4:02</duracao>
+		<numeroVoo>JJ3765</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>8</id>
+		<origem id="23">MAO</origem>
+		<destino id="14">GRU</destino>
+		<preco>1245.0</preco>
+		<duracao>3:43</duracao>
+		<numeroVoo>JJ3751</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>9</id>
+		<origem id="23">MAO</origem>
+		<destino id="38">STM</destino>
+		<preco>144.0</preco>
+		<duracao>1:10</duracao>
+		<numeroVoo>JJ3893</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>10</id>
+		<origem id="24">MCP</origem>
+		<destino id="2">BEL</destino>
+		<preco>121.0</preco>
+		<duracao>0:50</duracao>
+		<numeroVoo>JJ3449</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>11</id>
+		<origem id="25">MCZ</origem>
+		<destino id="4">BSB</destino>
+		<preco>366.0</preco>
+		<duracao>2:38</duracao>
+		<numeroVoo>JJ3481</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>12</id>
+		<origem id="25">MCZ</origem>
+		<destino id="13">GIG</destino>
+		<preco>723.0</preco>
+		<duracao>2:52</duracao>
+		<numeroVoo>JJ3267</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>13</id>
+		<origem id="25">MCZ</origem>
+		<destino id="14">GRU</destino>
+		<preco>528.0</preco>
+		<duracao>3:05</duracao>
+		<numeroVoo>JJ3645</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>14</id>
+		<origem id="26">NAT</origem>
+		<destino id="4">BSB</destino>
+		<preco>1342.0</preco>
+		<duracao>2:48</duracao>
+		<numeroVoo>JJ3379</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>15</id>
+		<origem id="26">NAT</origem>
+		<destino id="12">FOR</destino>
+		<preco>330.0</preco>
+		<duracao>1:02</duracao>
+		<numeroVoo>JJ3306</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>16</id>
+		<origem id="26">NAT</origem>
+		<destino id="13">GIG</destino>
+		<preco>359.0</preco>
+		<duracao>3:12</duracao>
+		<numeroVoo>JJ3487</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>17</id>
+		<origem id="26">NAT</origem>
+		<destino id="14">GRU</destino>
+		<preco>342.0</preco>
+		<duracao>3:15</duracao>
+		<numeroVoo>JJ3307</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>18</id>
+		<origem id="27">NVT</origem>
+		<destino id="7">CGH</destino>
+		<preco>511.0</preco>
+		<duracao>1:04</duracao>
+		<numeroVoo>JJ3118</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>19</id>
+		<origem id="28">PMW</origem>
+		<destino id="4">BSB</destino>
+		<preco>241.0</preco>
+		<duracao>1:23</duracao>
+		<numeroVoo>JJ3801</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>20</id>
+		<origem id="29">POA</origem>
+		<destino id="4">BSB</destino>
+		<preco>932.0</preco>
+		<duracao>2:38</duracao>
+		<numeroVoo>JJ3070</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>21</id>
+		<origem id="29">POA</origem>
+		<destino id="7">CGH</destino>
+		<preco>495.0</preco>
+		<duracao>1:37</duracao>
+		<numeroVoo>JJ3836</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>22</id>
+		<origem id="29">POA</origem>
+		<destino id="10">CWB</destino>
+		<preco>199.0</preco>
+		<duracao>1:06</duracao>
+		<numeroVoo>JJ3554</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>23</id>
+		<origem id="29">POA</origem>
+		<destino id="13">GIG</destino>
+		<preco>500.0</preco>
+		<duracao>1:54</duracao>
+		<numeroVoo>JJ3198</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>24</id>
+		<origem id="29">POA</origem>
+		<destino id="14">GRU</destino>
+		<preco>175.0</preco>
+		<duracao>1:35</duracao>
+		<numeroVoo>JJ3297</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>25</id>
+		<origem id="30">PVH</origem>
+		<destino id="4">BSB</destino>
+		<preco>999.0</preco>
+		<duracao>2:35</duracao>
+		<numeroVoo>JJ3595</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>26</id>
+		<origem id="31">RAO</origem>
+		<destino id="7">CGH</destino>
+		<preco>261.0</preco>
+		<duracao>0:54</duracao>
+		<numeroVoo>JJ3303</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>27</id>
+		<origem id="31">RAO</origem>
+		<destino id="14">GRU</destino>
+		<preco>437.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3397</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>28</id>
+		<origem id="32">RBR</origem>
+		<destino id="4">BSB</destino>
+		<preco>806.0</preco>
+		<duracao>3:13</duracao>
+		<numeroVoo>JJ3535</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>29</id>
+		<origem id="33">REC</origem>
+		<destino id="1">AJU</destino>
+		<preco>209.0</preco>
+		<duracao>1:02</duracao>
+		<numeroVoo>JJ3893</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>30</id>
+		<origem id="33">REC</origem>
+		<destino id="4">BSB</destino>
+		<preco>495.0</preco>
+		<duracao>2:44</duracao>
+		<numeroVoo>JJ3457</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>31</id>
+		<origem id="33">REC</origem>
+		<destino id="12">FOR</destino>
+		<preco>113.0</preco>
+		<duracao>1:19</duracao>
+		<numeroVoo>JJ3890</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>32</id>
+		<origem id="33">REC</origem>
+		<destino id="13">GIG</destino>
+		<preco>359.0</preco>
+		<duracao>2:59</duracao>
+		<numeroVoo>JJ3143</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>33</id>
+		<origem id="33">REC</origem>
+		<destino id="14">GRU</destino>
+		<preco>269.0</preco>
+		<duracao>3:21</duracao>
+		<numeroVoo>JJ3503</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>34</id>
+		<origem id="33">REC</origem>
+		<destino id="37">SSA</destino>
+		<preco>169.0</preco>
+		<duracao>1:24</duracao>
+		<numeroVoo>JJ3304</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>35</id>
+		<origem id="34">SDU</origem>
+		<destino id="1">AJU</destino>
+		<preco>1049.0</preco>
+		<duracao>2:15</duracao>
+		<numeroVoo>JJ3094</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>36</id>
+		<origem id="34">SDU</origem>
+		<destino id="4">BSB</destino>
+		<preco>378.0</preco>
+		<duracao>1:50</duracao>
+		<numeroVoo>JJ3022</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>37</id>
+		<origem id="34">SDU</origem>
+		<destino id="7">CGH</destino>
+		<preco>410.0</preco>
+		<duracao>1:07</duracao>
+		<numeroVoo>JJ3915</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>38</id>
+		<origem id="34">SDU</origem>
+		<destino id="9">CNF</destino>
+		<preco>111.0</preco>
+		<duracao>1:06</duracao>
+		<numeroVoo>JJ3756</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>39</id>
+		<origem id="34">SDU</origem>
+		<destino id="42">VIX</destino>
+		<preco>184.0</preco>
+		<duracao>0:56</duracao>
+		<numeroVoo>JJ3146</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>40</id>
+		<origem id="35">SJP</origem>
+		<destino id="7">CGH</destino>
+		<preco>330.0</preco>
+		<duracao>0:59</duracao>
+		<numeroVoo>JJ3899</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>41</id>
+		<origem id="35">SJP</origem>
+		<destino id="14">GRU</destino>
+		<preco>490.0</preco>
+		<duracao>1:00</duracao>
+		<numeroVoo>JJ3491</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>42</id>
+		<origem id="36">SLZ</origem>
+		<destino id="2">BEL</destino>
+		<preco>273.0</preco>
+		<duracao>1:05</duracao>
+		<numeroVoo>JJ3892</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>43</id>
+		<origem id="36">SLZ</origem>
+		<destino id="4">BSB</destino>
+		<preco>542.0</preco>
+		<duracao>2:21</duracao>
+		<numeroVoo>JJ3181</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>44</id>
+		<origem id="36">SLZ</origem>
+		<destino id="12">FOR</destino>
+		<preco>292.0</preco>
+		<duracao>1:15</duracao>
+		<numeroVoo>JJ3537</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>45</id>
+		<origem id="36">SLZ</origem>
+		<destino id="13">GIG</destino>
+		<preco>571.0</preco>
+		<duracao>3:25</duracao>
+		<numeroVoo>JJ3087</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>46</id>
+		<origem id="36">SLZ</origem>
+		<destino id="17">IMP</destino>
+		<preco>131.0</preco>
+		<duracao>1:05</duracao>
+		<numeroVoo>JJ3573</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>47</id>
+		<origem id="37">SSA</origem>
+		<destino id="4">BSB</destino>
+		<preco>363.0</preco>
+		<duracao>1:51</duracao>
+		<numeroVoo>JJ3304</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>48</id>
+		<origem id="37">SSA</origem>
+		<destino id="7">CGH</destino>
+		<preco>278.0</preco>
+		<duracao>2:35</duracao>
+		<numeroVoo>JJ3601</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>49</id>
+		<origem id="37">SSA</origem>
+		<destino id="9">CNF</destino>
+		<preco>445.0</preco>
+		<duracao>1:41</duracao>
+		<numeroVoo>JJ3217</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>50</id>
+		<origem id="37">SSA</origem>
+		<destino id="10">CWB</destino>
+		<preco>547.0</preco>
+		<duracao>2:58</duracao>
+		<numeroVoo>JJ3859</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>51</id>
+		<origem id="37">SSA</origem>
+		<destino id="12">FOR</destino>
+		<preco>538.0</preco>
+		<duracao>1:45</duracao>
+		<numeroVoo>JJ3216</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>52</id>
+		<origem id="37">SSA</origem>
+		<destino id="13">GIG</destino>
+		<preco>229.0</preco>
+		<duracao>2:43</duracao>
+		<numeroVoo>JJ3153</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>53</id>
+		<origem id="37">SSA</origem>
+		<destino id="14">GRU</destino>
+		<preco>250.0</preco>
+		<duracao>2:22</duracao>
+		<numeroVoo>JJ3179</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>54</id>
+		<origem id="37">SSA</origem>
+		<destino id="33">REC</destino>
+		<preco>169.0</preco>
+		<duracao>1:08</duracao>
+		<numeroVoo>JJ3890</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>55</id>
+		<origem id="38">STM</origem>
+		<destino id="2">BEL</destino>
+		<preco>294.0</preco>
+		<duracao>1:20</duracao>
+		<numeroVoo>JJ3893</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>56</id>
+		<origem id="38">STM</origem>
+		<destino id="23">MAO</destino>
+		<preco>144.0</preco>
+		<duracao>1:15</duracao>
+		<numeroVoo>JJ3892</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>57</id>
+		<origem id="39">THE</origem>
+		<destino id="4">BSB</destino>
+		<preco>548.0</preco>
+		<duracao>2:05</duracao>
+		<numeroVoo>JJ3841</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>58</id>
+		<origem id="39">THE</origem>
+		<destino id="12">FOR</destino>
+		<preco>234.0</preco>
+		<duracao>0:58</duracao>
+		<numeroVoo>JJ3840</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>59</id>
+		<origem id="39">THE</origem>
+		<destino id="14">GRU</destino>
+		<preco>429.0</preco>
+		<duracao>2:50</duracao>
+		<numeroVoo>JJ3667</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>60</id>
+		<origem id="40">UDI</origem>
+		<destino id="4">BSB</destino>
+		<preco>238.0</preco>
+		<duracao>1:12</duracao>
+		<numeroVoo>JJ3227</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>61</id>
+		<origem id="40">UDI</origem>
+		<destino id="7">CGH</destino>
+		<preco>464.0</preco>
+		<duracao>1:06</duracao>
+		<numeroVoo>JJ3241</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>62</id>
+		<origem id="41">VCP</origem>
+		<destino id="4">BSB</destino>
+		<preco>119.0</preco>
+		<duracao>1:41</duracao>
+		<numeroVoo>JJ3884</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>63</id>
+		<origem id="41">VCP</origem>
+		<destino id="13">GIG</destino>
+		<preco>1013.0</preco>
+		<duracao>1:24</duracao>
+		<numeroVoo>JJ3616</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>64</id>
+		<origem id="42">VIX</origem>
+		<destino id="4">BSB</destino>
+		<preco>859.0</preco>
+		<duracao>2:11</duracao>
+		<numeroVoo>JJ3518</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>65</id>
+		<origem id="42">VIX</origem>
+		<destino id="7">CGH</destino>
+		<preco>614.0</preco>
+		<duracao>1:32</duracao>
+		<numeroVoo>JJ3129</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>66</id>
+		<origem id="42">VIX</origem>
+		<destino id="13">GIG</destino>
+		<preco>182.0</preco>
+		<duracao>1:11</duracao>
+		<numeroVoo>JJ3199</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>67</id>
+		<origem id="42">VIX</origem>
+		<destino id="14">GRU</destino>
+		<preco>523.0</preco>
+		<duracao>1:35</duracao>
+		<numeroVoo>JJ3377</numeroVoo>
+	</trecho>
+	<trecho>
+		<id>68</id>
+		<origem id="42">VIX</origem>
+		<destino id="34">SDU</destino>
+		<preco>184.0</preco>
+		<duracao>1:10</duracao>
+		<numeroVoo>JJ3147</numeroVoo>
+	</trecho>
+</trechos>
